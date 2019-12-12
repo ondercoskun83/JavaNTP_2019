@@ -1,9 +1,10 @@
-
+//Abstract siniflar
 public class AbstractSiniflar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		//Abstracty siniflardan dogrudan nesne turetilemez. 
+		//Turetilen siniflarda ıoverride edilerek yeni sinniftan nesne turetilir
 	}
 
 }
