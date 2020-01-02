@@ -1,5 +1,5 @@
 //Generik Turler: Generic types
-
+//Tur icerisinde turler
 
 class Sifreler<T>{
 	public T deger;
